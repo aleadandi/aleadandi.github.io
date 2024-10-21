@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aleadandi.github.io/aleadandi.txt.gz
+Sitemap: https://aleadandi.github.io/app/aleadandi.txt.gz
+Sitemap: https://aleadandi.github.io/assets/aleadandi.txt.gz
+Sitemap: https://aleadandi.github.io/css/aleadandi.txt.gz
+Sitemap: https://aleadandi.github.io/includes/aleadandi.txt.gz
+Sitemap: https://aleadandi.github.io/item/aleadandi.txt.gz
+Sitemap: https://aleadandi.github.io/src/aleadandi.txt.gz
